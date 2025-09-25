@@ -20,8 +20,13 @@ This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-appl
 
 demo : 
 
-https://github.com/user-attachments/assets/9ccd620c-d1ad-4c8d-9265-2aca3d592ae84
+
+
+https://github.com/user-attachments/assets/7a07126b-3cb4-41d8-a360-e67c7ea96afd
+
+
 
 ##Featured Realeases :
+
 Adding Multiplayer experience 
 
